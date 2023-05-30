@@ -1,4 +1,1 @@
-# Set password for site, support multiple password separated by comma. If not set, site will be public
-SITE_PASSWORD=monkey
-# Your API Key for OpenAI
-OPENAI_API_KEY=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
+
